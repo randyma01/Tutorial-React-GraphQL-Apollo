@@ -1,4 +1,4 @@
-# Getting Started with GraphQL + React + Apollo Client + Apollo Server 🚀
+# Getting Started with GraphQL + React.js + Apollo Client + Apollo Server 🚀
 
 Tutorial made by c(@thakursachin467).
 
